@@ -1,0 +1,18 @@
+header{
+	background-color: rgb(11, 100, 145);
+	color: white;
+}
+.header-item
+{
+	font-size: 18px;
+	color: white !important;
+	align-content: center !important;
+	text-align: center !important;
+	align-self: center !important;
+	justify-content: center !important;
+
+}
+.header-item:hover
+{
+	color: black !important;
+}
